@@ -4,7 +4,7 @@ template repository that LLazyEmail using for creating email templates using rea
 
 
 
-https://github.com/LLazyEmail/remix-venmo-react-email-template
+https://llazyemail.github.io/documentation/templates/venmo.html
 
 
 
